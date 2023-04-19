@@ -411,7 +411,6 @@ img {
 
 .footer-container {
     display: flex;
-    gap: 120px;
 }
 
 .footer-social-media-subtitle {
@@ -452,6 +451,11 @@ img {
 
 .footer-container-text {
     background-color: var(--background-color-dark);
+    margin-right: 120px;
+}
+
+.social-list-footer {
+    margin-right: 80px;
 }
 
 .social-media-item-footer {
